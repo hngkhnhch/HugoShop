@@ -1,0 +1,13 @@
+.typeproduct-content {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
+
+.typeproduct-pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}

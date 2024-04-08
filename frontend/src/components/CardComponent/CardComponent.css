@@ -1,0 +1,38 @@
+.card {
+    position: relative;
+}
+/* 
+.product-image {
+    transition: transform 0.5s ease;
+}
+
+.product-image:hover {
+    transform: scale(1.2);
+} */
+.product-tag {
+    height: 14px;
+    width: 68px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.product-name {
+    font-size: 17px;
+}
+
+.product-rating {
+    margin: 6px 0 2px 0
+}
+
+.product-price .original-price {
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.product-price .discount-price {
+    margin-left: 10px;
+    color: red;
+    font-weight: 600;
+}

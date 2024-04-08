@@ -1,0 +1,17 @@
+.navbar-title {
+    color: rgb(56, 56, 61);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navbar-text {
+    color: rgb(56, 56, 61);
+    font-weight: 400;
+}
+
+.navbar-content {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+

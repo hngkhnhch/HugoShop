@@ -1,0 +1,34 @@
+.header-component {
+    padding: 10px 120px;
+    background-color: #3399ff;
+    color: #fff;
+}
+
+.header-component .header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: nowrap;
+}
+
+.header-component .left {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.header-component .right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header-component .user-account {
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.user-account .user-account-span {
+    white-space: nowrap;
+}

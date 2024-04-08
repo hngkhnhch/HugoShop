@@ -1,0 +1,41 @@
+.signup-form {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(177, 177, 177, 0.247);
+}
+
+.signup {
+    width: 600px;
+    height: auto;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.signup-form .signup .p {
+    font-size: 36px;
+    font-weight: 600;
+    color: rgb(2, 93, 230);
+}
+
+.signup-form .signup .input {
+    margin-top: 20px;
+    height: 40px;
+}
+
+.signup-form .signup .button {
+    margin-top: 20px;
+    width: 100%;
+    height: 40px;
+}
+
+.signup-form .signup .span {
+    color: rgb(16, 112, 221);
+}
+
+.signup-form .signup .fail {
+    color: rgb(255, 0, 0);
+    font-style: italic;
+}
