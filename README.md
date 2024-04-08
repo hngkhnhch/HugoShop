@@ -1,0 +1,2 @@
+# HugoShop
+Shopping with us
